@@ -1,0 +1,7 @@
+h1, h2#music {
+    color: #FF6600;
+}
+
+h2#bio, h2#contact {
+    color: #FF9874;
+}
