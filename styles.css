@@ -83,14 +83,15 @@ footer {
 
 .gig iframe {
     border-radius: 10px;
-    width: 100%; /* Make iframe responsive */
+    width: 100%; 
     height: auto;
-    max-width: 560px; /* Maximum width to maintain aspect ratio */
-    margin: 0 auto; /* Center the iframe */
+    max-width: 560px; 
+    margin: 0 auto; 
 }
 
 .gig p {
     margin: 10px 0;
     color: #333;
 }
+
 
