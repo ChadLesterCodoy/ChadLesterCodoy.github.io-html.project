@@ -81,13 +81,16 @@ footer {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.gig video {
+.gig iframe {
     border-radius: 10px;
-    width: 100%;
+    width: 100%; /* Make iframe responsive */
     height: auto;
+    max-width: 560px; /* Maximum width to maintain aspect ratio */
+    margin: 0 auto; /* Center the iframe */
 }
 
 .gig p {
     margin: 10px 0;
     color: #333;
 }
+
